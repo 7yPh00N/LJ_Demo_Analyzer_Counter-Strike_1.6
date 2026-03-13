@@ -1,4 +1,5 @@
 https://github.com/rndtrash/py-goldsrc-demo
+
 https://kz-rush.ru/en/page/calculating-distance
 
 V1.1.0 (2026/03/06)
